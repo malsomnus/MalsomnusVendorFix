@@ -1,0 +1,8 @@
+## Interface: 100002
+## Title: MalsomnusVendorFix
+## Author: Malsomnus
+## SavedVariables: 
+## SavedVariablesPerCharacter: 
+## Version: v1.00
+
+MalsomnusVendorFix.lua
